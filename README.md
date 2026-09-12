@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUCI5WcISxqiFfoh4mse1s-HA&query=%24.counters.api.subscriberCount&style=for-the-badge&logo=youtube&logoColor=white&label=INSCRITOS&labelColor=1F2328&color=2B97B3" alt="">
   <img src="https://img.shields.io/github/followers/AndersonAdelino?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=1F2328&color=2B97B3" alt="">
-  <img src="https://img.shields.io/github/stars/AndersonAdelino?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&labelColor=1F2328&color=2B97B3" alt="">
   <img src="https://komarev.com/ghpvc/?username=AndersonAdelino&style=for-the-badge&color=2B97B3&label=PROFILE+VIEWS" alt="">
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/@oandersonadelino"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://instagram.com/andersonadelino.ia"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:groupias.com@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:zenithonltda@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -45,6 +45,8 @@ More skills landing gradually.
 
 <p align="center">
   <a href="https://www.youtube.com/@oandersonadelino?sub_confirmation=1"><img src="https://img.shields.io/badge/SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUCI5WcISxqiFfoh4mse1s-HA&query=%24.counters.api.videoCount&style=for-the-badge&logo=youtube&logoColor=white&label=V%C3%8DDEOS&labelColor=1F2328&color=2B97B3" alt="">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUCI5WcISxqiFfoh4mse1s-HA&query=%24.counters.api.viewCount&style=for-the-badge&logo=youtube&logoColor=white&label=VIEWS&labelColor=1F2328&color=2B97B3" alt="">
 </p>
 
 <table>
