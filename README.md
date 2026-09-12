@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F2328&height=200&section=header&text=Anderson%20Adelino&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20@%20Zenithon%20Academy%20%7C%20COO%20@%20Group%20IA%20%7C%20IA%20e%20Automa%C3%A7%C3%B5es&descAlignY=58&descSize=18" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2B97B3&height=200&section=header&text=Anderson%20Adelino&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20@%20Zenithon%20Academy%20%7C%20COO%20@%20Group%20IA%20%7C%20IA%20e%20Automa%C3%A7%C3%B5es&descAlignY=58&descSize=18" alt="">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=620&lines=Agent+skills+para+Claude+Code;Automa%C3%A7%C3%B5es+que+rodam+sozinhas;Bacharel+em+Ci%C3%AAncias+e+Tecnologia+%E2%80%94+UFRN" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=2B97B3&center=true&vCenter=true&width=620&lines=Agent+skills+para+Claude+Code;Automa%C3%A7%C3%B5es+que+rodam+sozinhas;Bacharel+em+Ci%C3%AAncias+e+Tecnologia+%E2%80%94+UFRN" alt="">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AndersonAdelino?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=1F2328&color=000000" alt="">
-  <img src="https://img.shields.io/github/stars/AndersonAdelino?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&labelColor=1F2328&color=000000" alt="">
-  <img src="https://komarev.com/ghpvc/?username=AndersonAdelino&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="">
+  <img src="https://img.shields.io/github/followers/AndersonAdelino?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=1F2328&color=2B97B3" alt="">
+  <img src="https://img.shields.io/github/stars/AndersonAdelino?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&labelColor=1F2328&color=2B97B3" alt="">
+  <img src="https://komarev.com/ghpvc/?username=AndersonAdelino&style=for-the-badge&color=2B97B3&label=PROFILE+VIEWS" alt="">
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ More skills landing gradually.
 
 ![VPS](https://img.shields.io/badge/VPS%20LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Easypanel](https://img.shields.io/badge/EASYPANEL-1B1B1F?style=for-the-badge)
+![Easypanel](https://img.shields.io/badge/EASYPANEL-2B97B3?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Dados**
@@ -118,7 +118,7 @@ More skills landing gradually.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AndersonAdelino&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" alt="">
+  <img src="https://streak-stats.demolab.com?user=AndersonAdelino&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&border=30363D&stroke=30363D&ring=2B97B3&fire=2B97B3&currStreakNum=2B97B3&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" alt="">
 </p>
 
 <p align="center">
@@ -126,6 +126,6 @@ More skills landing gradually.
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndersonAdelino&theme=github_dark" alt="">
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2328,100:000000&height=120&section=footer" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B97B3,100:000000&height=120&section=footer" alt="">
 
 <p align="center"><sub>Vídeos em 🇧🇷 português · código e docs em inglês</sub></p>
